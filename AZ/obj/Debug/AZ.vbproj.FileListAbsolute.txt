@@ -10,3 +10,5 @@ C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.exe
 C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.pdb
 C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\bin\Debug\Guna.UI2.dll
 C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.vbproj.CopyComplete
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.Cad.resources
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.Resources.resources
