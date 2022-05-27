@@ -1,0 +1,12 @@
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.vbproj.AssemblyReference.cache
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.vbproj.CoreCompileInputs.cache
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.Login.resources
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.vbproj.GenerateResource.cache
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\bin\Debug\AZ.exe.config
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\bin\Debug\AZ.exe
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\bin\Debug\AZ.pdb
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.exe
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.pdb
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\bin\Debug\Guna.UI2.dll
+C:\Users\ADAPTA\Desktop\X-FILE\AZ\AZ\obj\Debug\AZ.vbproj.CopyComplete
